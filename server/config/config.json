@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "alumni_dev",
+    "password": "R@01234",
+    "database": "alumni_network_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": true,
+    "dialectOptions": {
+      "connectTimeout": 60000,
+      "supportBigNumbers": true,
+      "bigNumberStrings": true
+    },
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "alumni_network_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "alumni_network_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
