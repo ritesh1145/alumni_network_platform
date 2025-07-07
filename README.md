@@ -46,18 +46,20 @@ Moderate the network by managing users, events, and jobs safely and efficiently.
 
 ### 📌 Landing Page
 <img src="client/public/assets/LandingPage1.jpeg" width="100%"/>
-<img src="client/public/assets/LandingPage2.jpeg" width="300"/>
+<img src="client/public/assets/LandingPage2.jpeg" width="100%"/>
 
-### ❓ In Action
-<img src="client/public/assets/LoginPage.jpeg" width="200"/>
-<img src="client/public/assets/RegisterPage.jpeg" width="200"/>
-<img src="client/public/assets/AlumniDirectory.jpeg" width="200"/>
-<img src="client/public/assets/Events.jpeg" width="200"/>
-<img src="client/public/assets/JobOpportunities.jpeg" width="200"/>
-<img src="client/public/assets/Profile.jpeg" width="200"/>
+### 🔐 Authentication Screens
+<img src="client/public/assets/LoginPage.jpeg" width="60%"/>
+<img src="client/public/assets/RegisterPage.jpeg" width="60%"/>
 
-### ❓ Database
-<img src="client/public/assets/Backend Database.jpeg" width="200"/>
+### 🧑‍🎓 Alumni Features
+<img src="client/public/assets/AlumniDirectory.jpeg" width="60%"/>
+<img src="client/public/assets/Events.jpeg" width="60%"/>
+<img src="client/public/assets/JobOpportunities.jpeg" width="60%"/>
+<img src="client/public/assets/Profile.jpeg" width="60%"/>
+
+### 🗄️ Backend Database View
+<img src="client/public/assets/Backend Database.jpeg" width="60%"/>
 
 ---
 
