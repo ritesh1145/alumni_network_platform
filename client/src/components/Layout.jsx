@@ -21,9 +21,8 @@ const Layout = () => {
         <div className="space-x-6 text-sm font-medium">
           <Link
             to="/"
-            className={`hover:underline ${
-              location.pathname === '/' ? 'text-yellow-300' : ''
-            }`}
+            className={`hover:underline ${location.pathname === '/' ? 'text-yellow-300' : ''
+              }`}
           >
             Home
           </Link>
@@ -32,36 +31,32 @@ const Layout = () => {
             <>
               <Link
                 to="/profile"
-                className={`hover:underline ${
-                  location.pathname === '/profile' ? 'text-yellow-300' : ''
-                }`}
+                className={`hover:underline ${location.pathname === '/profile' ? 'text-yellow-300' : ''
+                  }`}
               >
                 Profile
               </Link>
 
               <Link
                 to="/directory"
-                className={`hover:underline ${
-                  location.pathname === '/directory' ? 'text-yellow-300' : ''
-                }`}
+                className={`hover:underline ${location.pathname === '/directory' ? 'text-yellow-300' : ''
+                  }`}
               >
                 Directory
               </Link>
 
               <Link
                 to="/events"
-                className={`hover:underline ${
-                  location.pathname === '/events' ? 'text-yellow-300' : ''
-                }`}
+                className={`hover:underline ${location.pathname === '/events' ? 'text-yellow-300' : ''
+                  }`}
               >
                 Events
               </Link>
 
               <Link
                 to="/jobs"
-                className={`hover:underline ${
-                  location.pathname === '/jobs' ? 'text-yellow-300' : ''
-                }`}
+                className={`hover:underline ${location.pathname === '/jobs' ? 'text-yellow-300' : ''
+                  }`}
               >
                 Jobs
               </Link>
@@ -69,9 +64,8 @@ const Layout = () => {
               {user.role === 'admin' && (
                 <Link
                   to="/admin"
-                  className={`hover:underline ${
-                    location.pathname === '/admin' ? 'text-yellow-300' : ''
-                  }`}
+                  className={`hover:underline ${location.pathname === '/admin' ? 'text-yellow-300' : ''
+                    }`}
                 >
                   Admin
                 </Link>
