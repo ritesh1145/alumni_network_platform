@@ -44,13 +44,20 @@ Moderate the network by managing users, events, and jobs safely and efficiently.
 
 ## 🖼️ Sneak Peek
 
-> 💡 You can add real screenshots or GIFs here. Example placeholders:
+### 📌 Landing Page
+<img src="client/public/assets/LandingPage1.jpeg" width="300"/>
+<img src="client/public/assets/LandingPage2.jpeg" width="300"/>
 
-<p align="center">
-  <img src="./screenshots/homepage.png" alt="Home" width="80%"/>
-  <img src="./screenshots/directory.png" alt="Directory" width="80%"/>
-  <img src="./screenshots/events.png" alt="Events" width="80%"/>
-</p>
+### ❓ In Action
+<img src="client/public/assets/LoginPage.jpeg" width="200"/>
+<img src="client/public/assets/RegisterPage.jpeg" width="200"/>
+<img src="client/public/assets/AlumniDirectory.jpeg" width="200"/>
+<img src="client/public/assets/Events.jpeg" width="200"/>
+<img src="client/public/assets/JobOpportunities.jpeg" width="200"/>
+<img src="client/public/assets/Profile.jpeg" width="200"/>
+
+### ❓ Database
+<img src="client/public/assets/Backend Database.jpeg" width="200"/>
 
 ---
 
