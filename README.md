@@ -45,8 +45,8 @@ Moderate the network by managing users, events, and jobs safely and efficiently.
 ## 🖼️ Sneak Peek
 
 ### 📌 Landing Page
-<img src="client/public/assets/LandingPage1.jpeg" width="100%"/>
-<img src="client/public/assets/LandingPage2.jpeg" width="100%"/>
+<img src="client/public/assets/LandingPage1.jpeg" width="60%"/>
+<img src="client/public/assets/LandingPage2.jpeg" width="60%"/>
 
 ### 🔐 Authentication Screens
 <img src="client/public/assets/LoginPage.jpeg" width="60%"/>
